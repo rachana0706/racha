@@ -1,2 +1,3 @@
-# racha <br> this is my first repository 
+# racha  
+This is my first repo
 <br> author : Rachana
